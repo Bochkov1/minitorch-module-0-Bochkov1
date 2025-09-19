@@ -6,4 +6,5 @@ pre-commit == 2.20.0
 pytest == 8.3.2
 pytest-env
 pytest-runner == 5.2
+mypy==1.10.0
 typing_extensions
